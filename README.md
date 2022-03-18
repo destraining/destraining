@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @destraining, from Argentina
+- 👋 Hi, I’m @destraining, a human being living at Earth planet
 - 👀 I’m interested in Github basics, DevOps and developer productivity tools
 - 🌱 I’m currently learning Unleash, Javascript, Node.js
 
